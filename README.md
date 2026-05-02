@@ -37,3 +37,8 @@ CleanWave POS adalah aplikasi Point of Sale (POS) dan manajemen sistem laundry y
 ## Lisensi
 
 Proyek ini dibuat untuk tujuan pembelajaran dan pengembangan profesional. Silakan gunakan atau modifikasi sesuai kebutuhan!
+
+## Author
+
+Agung
+2026
