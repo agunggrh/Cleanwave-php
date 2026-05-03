@@ -51,7 +51,7 @@ if (isset($_POST['login'])) {
             <div class="text-center mb-4">
                 <i class="fa-solid fa-water fa-3x mb-3" style="color: #2563eb;"></i>
                 <h2 class="brand-text mb-1">CleanWave</h2>
-                <p class="text-muted">Manajemen Laundry Profesional</p>
+                <p class="text-muted">Manajemen Laundry</p>
             </div>
             
             <form method="POST">
