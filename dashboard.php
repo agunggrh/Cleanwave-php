@@ -46,8 +46,8 @@ document.addEventListener("DOMContentLoaded", function() {
         <div class="card bg-primary text-white p-4">
             <div class="d-flex justify-content-between align-items-center">
                 <div>
-                    <h3 class="fw-bold mb-1">Halo, <?= htmlspecialchars($_SESSION['username']) ?>! 👋</h3>
-                    <p class="mb-0 text-white-50">Selamat datang kembali di Dashboard CleanWave.</p>
+                    <h3 class="fw-bold mb-1">Halo, <?= htmlspecialchars($_SESSION['username']) ?>! </h3>
+                    <p class="mb-0 text-white-50">Selamat datang kembali di Clean Wave Laundry.</p>
                 </div>
                 <i class="fa-solid fa-water fa-3x opacity-50"></i>
             </div>
